@@ -32,7 +32,7 @@ That's the official Muse referral program: when a new user redeems an invite cod
 
 This is my gift to you: **1 billion Muse tokens — a $37 gift from me, Roozbeh**.
 
-In time, that is **2 weeks of Power** or **about 10 weeks of the free tier** (100 million a week). Tokens are usage credit — not cash, not crypto, not withdrawable — and Meta has not published an official cash price per token, so values vary by how you count them. You pay nothing; the gift is from me, Roozbeh.
+In time, that is **2 weeks of Power** or **about 10 weeks of the free tier** (100 million a week). Tokens are usage credit — not cash, not crypto, not withdrawable. You pay nothing; the gift is from me, Roozbeh.
 
 No payment. No card. No purchase. Just redeem the code in time.
 
@@ -102,7 +102,7 @@ Yes. Invite codes are free. If any site or seller asks you to pay for a code, cl
 No. This bonus is extra usage credit. You can keep using the free plan.
 
 **What are Muse tokens worth?**
-They are in-app usage credit. Meta hasn't published an official cash price per token, and the value depends on the plan. This is a $37 gift from Roozbeh — 1B tokens, about 2 weeks of Power, or roughly 10 weeks of free-tier usage. Tokens are usage credit, not cash, and Meta has not published an official cash price per token, so values vary by how you count them.
+They are in-app usage credit. This is a $37 gift from Roozbeh — 1B tokens, about 2 weeks of Power, or roughly 10 weeks of free-tier usage. Tokens are usage credit, not cash.
 
 **Can I use the code on an old account?**
 No. Only accounts less than 48 hours old can redeem a code.
@@ -161,7 +161,7 @@ So this guide stays public, free, and easy to share — no ads, no paywall, no s
 
 این هدیهٔ من به توست: **۱ میلیارد توکن موز — یک هدیهٔ ۳۷ دلاری از طرف من، روزبه**.
 
-از نظر زمانی هم یعنی **۲ هفته Power** یا **حدود ۱۰ هفته پلن رایگان** (۱۰۰ میلیون در هفته). توکن اعتبار مصرف است — نه پول نقد، نه ارز دیجیتال و قابل برداشت نیست — و متا قیمت نقدی رسمی برای هر توکن اعلام نکرده، پس ارزشش به روش حساب بستگی دارد. تو هیچی نمی‌پردازی؛ هدیه از طرف من، روزبه، است.
+از نظر زمانی هم یعنی **۲ هفته Power** یا **حدود ۱۰ هفته پلن رایگان** (۱۰۰ میلیون در هفته). توکن اعتبار مصرف است — نه پول نقد، نه ارز دیجیتال و قابل برداشت نیست. تو هیچی نمی‌پردازی؛ هدیه از طرف من، روزبه، است.
 
 بدون پرداخت، بدون کارت، بدون خرید. فقط کد را به‌موقع وارد کن.
 
@@ -231,7 +231,7 @@ Settings → Redeem Code
 نه. این جایزه اعتبار مصرف اضافه است. می‌توانی همان پلن رایگان را ادامه بدهی.
 
 **توکن‌های موز چقدر ارزش دارند؟**
-اعتبار مصرف داخل اپ هستند. متا قیمت نقدی رسمی برای هر توکن اعلام نکرده و ارزشش به پلن بستگی دارد. این یک هدیهٔ ۳۷ دلاری از طرف روزبه است — ۱ میلیارد توکن، حدود ۲ هفته Power یا حدود ۱۰ هفته مصرف پلن رایگان. توکن اعتبار مصرف است، نه پول نقد، و متا قیمت نقدی رسمی برای هر توکن اعلام نکرده، پس ارزشش به روش حساب بستگی دارد.
+اعتبار مصرف داخل اپ هستند. این یک هدیهٔ ۳۷ دلاری از طرف روزبه است — ۱ میلیارد توکن، حدود ۲ هفته Power یا حدود ۱۰ هفته مصرف پلن رایگان. توکن اعتبار مصرف است، نه پول نقد.
 
 **روی اکانت قدیمی هم می‌شود کد زد؟**
 نه. فقط اکانت‌های کمتر از ۴۸ ساعت می‌توانند کد وارد کنند.
