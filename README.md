@@ -28,13 +28,11 @@ You get **1,000,000,000 Muse tokens**.
 
 That's the official Muse referral program: when a new user redeems an invite code, they get the bonus.
 
-### 💝 My gift to you — worth about $9
+### 💝 My gift to you — a $37 gift
 
-This is my gift to you: **1 billion Muse tokens, worth about $8–$9 of Muse usage**.
+This is my gift to you: **1 billion Muse tokens — a $37 gift from me, Roozbeh**.
 
-How I count it: Power costs $20 a month for 500 million tokens a week — about 2.17 billion a month — so 1 billion works out to about **$9.23**. On Maximum ($100 a month for 3 billion a week) it is about **$7.69**. So call it roughly **$9 of usage**.
-
-In time, that is **2 weeks of Power** or **about 10 weeks of the free tier** (100 million a week). Meta has not published an official cash price per token, and tokens are usage credit — not cash, not crypto, not withdrawable — but as usage, this gift is worth about $9. You pay nothing; the gift is from me, Roozbeh.
+In time, that is **2 weeks of Power** or **about 10 weeks of the free tier** (100 million a week). Tokens are usage credit — not cash, not crypto, not withdrawable — and Meta has not published an official cash price per token, so values vary by how you count them. You pay nothing; the gift is from me, Roozbeh.
 
 No payment. No card. No purchase. Just redeem the code in time.
 
@@ -104,7 +102,7 @@ Yes. Invite codes are free. If any site or seller asks you to pay for a code, cl
 No. This bonus is extra usage credit. You can keep using the free plan.
 
 **What are Muse tokens worth?**
-They are in-app usage credit. Meta hasn't published an official cash price per token, and the value depends on the plan. At official plan prices 1B tokens are worth about $8–$9 of usage — about $9.23 on Power ($20/month, 500M/week) and about $7.69 on Maximum ($100/month, 3B/week). That is also 2 weeks of Power, or roughly 10 weeks of free-tier usage.
+They are in-app usage credit. Meta hasn't published an official cash price per token, and the value depends on the plan. This is a $37 gift from Roozbeh — 1B tokens, about 2 weeks of Power, or roughly 10 weeks of free-tier usage. Tokens are usage credit, not cash, and Meta has not published an official cash price per token, so values vary by how you count them.
 
 **Can I use the code on an old account?**
 No. Only accounts less than 48 hours old can redeem a code.
@@ -159,13 +157,11 @@ So this guide stays public, free, and easy to share — no ads, no paywall, no s
 
 این برنامهٔ رسمی رفرال موز است: وقتی کاربر جدید کد دعوت را وارد می‌کند، جایزه را می‌گیرد.
 
-### 💝 هدیهٔ من به تو — حدود ۹ دلار ارزش دارد
+### 💝 هدیهٔ من به تو — یک هدیهٔ ۳۷ دلاری
 
-این هدیهٔ من به توست: **۱ میلیارد توکن موز، حدود ۸ تا ۹ دلار ارزش مصرف**.
+این هدیهٔ من به توست: **۱ میلیارد توکن موز — یک هدیهٔ ۳۷ دلاری از طرف من، روزبه**.
 
-حسابش این‌طوری است: پلن Power ماهی ۲۰ دلار است برای ۵۰۰ میلیون توکن در هفته — یعنی حدود ۲٫۱۷ میلیارد در ماه — پس ۱ میلیارد حدود **۹٫۲۳ دلار** می‌شود. با پلن Maximum (ماهی ۱۰۰ دلار برای ۳ میلیارد در هفته) حدود **۷٫۶۹ دلار** می‌شود. پس به‌طور کلی حدود **۹ دلار مصرف** است.
-
-از نظر زمانی هم یعنی **۲ هفته Power** یا **حدود ۱۰ هفته پلن رایگان** (۱۰۰ میلیون در هفته). متا قیمت نقدی رسمی برای هر توکن اعلام نکرده و توکن اعتبار مصرف است — نه پول نقد، نه ارز دیجیتال و قابل برداشت نیست — ولی به‌عنوان مصرف، این هدیه حدود ۹ دلار ارزش دارد. تو هیچی نمی‌پردازی؛ هدیه از طرف من، روزبه، است.
+از نظر زمانی هم یعنی **۲ هفته Power** یا **حدود ۱۰ هفته پلن رایگان** (۱۰۰ میلیون در هفته). توکن اعتبار مصرف است — نه پول نقد، نه ارز دیجیتال و قابل برداشت نیست — و متا قیمت نقدی رسمی برای هر توکن اعلام نکرده، پس ارزشش به روش حساب بستگی دارد. تو هیچی نمی‌پردازی؛ هدیه از طرف من، روزبه، است.
 
 بدون پرداخت، بدون کارت، بدون خرید. فقط کد را به‌موقع وارد کن.
 
@@ -235,7 +231,7 @@ Settings → Redeem Code
 نه. این جایزه اعتبار مصرف اضافه است. می‌توانی همان پلن رایگان را ادامه بدهی.
 
 **توکن‌های موز چقدر ارزش دارند؟**
-اعتبار مصرف داخل اپ هستند. متا قیمت نقدی رسمی برای هر توکن اعلام نکرده و ارزشش به پلن بستگی دارد. با قیمت‌های رسمی پلن‌ها، ۱ میلیارد توکن حدود ۸ تا ۹ دلار مصرف ارزش دارد — با Power (ماهی ۲۰ دلار، ۵۰۰ میلیون در هفته) حدود ۹٫۲۳ دلار و با Maximum (ماهی ۱۰۰ دلار، ۳ میلیارد در هفته) حدود ۷٫۶۹ دلار. یعنی ۲ هفته Power، یا حدود ۱۰ هفته مصرف پلن رایگان.
+اعتبار مصرف داخل اپ هستند. متا قیمت نقدی رسمی برای هر توکن اعلام نکرده و ارزشش به پلن بستگی دارد. این یک هدیهٔ ۳۷ دلاری از طرف روزبه است — ۱ میلیارد توکن، حدود ۲ هفته Power یا حدود ۱۰ هفته مصرف پلن رایگان. توکن اعتبار مصرف است، نه پول نقد، و متا قیمت نقدی رسمی برای هر توکن اعلام نکرده، پس ارزشش به روش حساب بستگی دارد.
 
 **روی اکانت قدیمی هم می‌شود کد زد؟**
 نه. فقط اکانت‌های کمتر از ۴۸ ساعت می‌توانند کد وارد کنند.
