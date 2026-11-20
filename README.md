@@ -1,6 +1,6 @@
 # 🎁 Get 1 Billion Free Muse Tokens
 
-### Use my invite code and get 1,000,000,000 tokens — free.
+### 🎁 A gift from Roozbeh — use my invite code and get 1,000,000,000 tokens — free.
 
 > **My Muse invite code:**
 >
@@ -27,6 +27,14 @@ Muse runs on **tokens**. Tokens are usage credit inside Muse — not cash, not c
 You get **1,000,000,000 Muse tokens**.
 
 That's the official Muse referral program: when a new user redeems an invite code, they get the bonus.
+
+### 💝 My gift to you — worth about $9
+
+This is my gift to you: **1 billion Muse tokens, worth about $8–$9 of Muse usage**.
+
+How I count it: Power costs $20 a month for 500 million tokens a week — about 2.17 billion a month — so 1 billion works out to about **$9.23**. On Maximum ($100 a month for 3 billion a week) it is about **$7.69**. So call it roughly **$9 of usage**.
+
+In time, that is **2 weeks of Power** or **about 10 weeks of the free tier** (100 million a week). Meta has not published an official cash price per token, and tokens are usage credit — not cash, not crypto, not withdrawable — but as usage, this gift is worth about $9. You pay nothing; the gift is from me, Roozbeh.
 
 No payment. No card. No purchase. Just redeem the code in time.
 
@@ -96,7 +104,7 @@ Yes. Invite codes are free. If any site or seller asks you to pay for a code, cl
 No. This bonus is extra usage credit. You can keep using the free plan.
 
 **What are Muse tokens worth?**
-They are in-app usage credit. Meta hasn't published an official cash price per token, and the value depends on the plan. Treat 1B tokens as a very generous usage allowance — roughly 10 weeks of free-tier usage by some estimates.
+They are in-app usage credit. Meta hasn't published an official cash price per token, and the value depends on the plan. At official plan prices 1B tokens are worth about $8–$9 of usage — about $9.23 on Power ($20/month, 500M/week) and about $7.69 on Maximum ($100/month, 3B/week). That is also 2 weeks of Power, or roughly 10 weeks of free-tier usage.
 
 **Can I use the code on an old account?**
 No. Only accounts less than 48 hours old can redeem a code.
@@ -127,7 +135,7 @@ So this guide stays public, free, and easy to share — no ads, no paywall, no s
 
 # 🎁 دریافت ۱ میلیارد توکن رایگان Muse
 
-### با کد دعوت من ثبت‌نام کن؛ ۱٬۰۰۰٬۰۰۰٬۰۰۰ توکن می‌گیری — رایگان.
+### 🎁 هدیه‌ای از طرف روزبه — با کد دعوت من ثبت‌نام کن؛ ۱٬۰۰۰٬۰۰۰٬۰۰۰ توکن می‌گیری — رایگان.
 
 > **کد دعوت من:**
 >
@@ -150,6 +158,14 @@ So this guide stays public, free, and easy to share — no ads, no paywall, no s
 تو **۱٬۰۰۰٬۰۰۰٬۰۰۰ توکن موز** می‌گیری.
 
 این برنامهٔ رسمی رفرال موز است: وقتی کاربر جدید کد دعوت را وارد می‌کند، جایزه را می‌گیرد.
+
+### 💝 هدیهٔ من به تو — حدود ۹ دلار ارزش دارد
+
+این هدیهٔ من به توست: **۱ میلیارد توکن موز، حدود ۸ تا ۹ دلار ارزش مصرف**.
+
+حسابش این‌طوری است: پلن Power ماهی ۲۰ دلار است برای ۵۰۰ میلیون توکن در هفته — یعنی حدود ۲٫۱۷ میلیارد در ماه — پس ۱ میلیارد حدود **۹٫۲۳ دلار** می‌شود. با پلن Maximum (ماهی ۱۰۰ دلار برای ۳ میلیارد در هفته) حدود **۷٫۶۹ دلار** می‌شود. پس به‌طور کلی حدود **۹ دلار مصرف** است.
+
+از نظر زمانی هم یعنی **۲ هفته Power** یا **حدود ۱۰ هفته پلن رایگان** (۱۰۰ میلیون در هفته). متا قیمت نقدی رسمی برای هر توکن اعلام نکرده و توکن اعتبار مصرف است — نه پول نقد، نه ارز دیجیتال و قابل برداشت نیست — ولی به‌عنوان مصرف، این هدیه حدود ۹ دلار ارزش دارد. تو هیچی نمی‌پردازی؛ هدیه از طرف من، روزبه، است.
 
 بدون پرداخت، بدون کارت، بدون خرید. فقط کد را به‌موقع وارد کن.
 
@@ -219,7 +235,7 @@ Settings → Redeem Code
 نه. این جایزه اعتبار مصرف اضافه است. می‌توانی همان پلن رایگان را ادامه بدهی.
 
 **توکن‌های موز چقدر ارزش دارند؟**
-اعتبار مصرف داخل اپ هستند. متا قیمت نقدی رسمی برای هر توکن اعلام نکرده و ارزشش به پلن بستگی دارد. ۱ میلیارد توکن را یک سهمیهٔ مصرف خیلی سخاوتمندانه بدان — طبق بعضی برآوردها حدود ۱۰ هفته مصرف پلن رایگان.
+اعتبار مصرف داخل اپ هستند. متا قیمت نقدی رسمی برای هر توکن اعلام نکرده و ارزشش به پلن بستگی دارد. با قیمت‌های رسمی پلن‌ها، ۱ میلیارد توکن حدود ۸ تا ۹ دلار مصرف ارزش دارد — با Power (ماهی ۲۰ دلار، ۵۰۰ میلیون در هفته) حدود ۹٫۲۳ دلار و با Maximum (ماهی ۱۰۰ دلار، ۳ میلیارد در هفته) حدود ۷٫۶۹ دلار. یعنی ۲ هفته Power، یا حدود ۱۰ هفته مصرف پلن رایگان.
 
 **روی اکانت قدیمی هم می‌شود کد زد؟**
 نه. فقط اکانت‌های کمتر از ۴۸ ساعت می‌توانند کد وارد کنند.
