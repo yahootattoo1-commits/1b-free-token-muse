@@ -1,6 +1,6 @@
 # 🎁 Get 1 Billion Free Muse Tokens
 
-### Use my invite code and we BOTH get 1,000,000,000 tokens — free.
+### Use my invite code and get 1,000,000,000 tokens — free.
 
 > **My Muse invite code:**
 >
@@ -9,7 +9,7 @@
 > Copy it exactly: **8 X B C L 6**
 
 [![Muse](https://img.shields.io/badge/Muse-Personal%20AI%20Agent-8A2BE2?style=for-the-badge)](https://muse.ai)
-[![Free](https://img.shields.io/badge/Reward-1B%20Tokens%20Each-brightgreen?style=for-the-badge)](https://muse.ai)
+[![Free](https://img.shields.io/badge/Reward-1B%20Free%20Tokens-brightgreen?style=for-the-badge)](https://muse.ai)
 [![48 Hours](https://img.shields.io/badge/Redeem-Within%2048%20Hours-orange?style=for-the-badge)](#-how-to-redeem-in-2-minutes)
 
 **👉 Start here: [https://muse.ai/join](https://muse.ai/join)**
@@ -20,16 +20,13 @@
 
 Muse is Meta's personal AI agent — your own assistant that helps you get things done, in chat, on the go.
 
-Muse runs on **tokens**. Tokens are usage credit inside Muse — not cash, not crypto, and not withdrawable. The free plan already includes an allowance. This invite bonus adds **1 billion tokens on top** for both of us.
+Muse runs on **tokens**. Tokens are usage credit inside Muse — not cash, not crypto, and not withdrawable. The free plan already includes an allowance. This invite bonus adds **1 billion tokens on top** for you.
 
 ## 🎁 What do you get?
 
-| Who | Reward |
-| :--- | :--- |
-| **You (new user)** | **1,000,000,000 Muse tokens** |
-| **Me (code owner)** | **1,000,000,000 Muse tokens** |
+You get **1,000,000,000 Muse tokens**.
 
-That's the official Muse referral program: when a new user redeems an invite code, both people get the same bonus.
+That's the official Muse referral program: when a new user redeems an invite code, they get the bonus.
 
 No payment. No card. No purchase. Just redeem the code in time.
 
@@ -105,7 +102,7 @@ They are in-app usage credit. Meta hasn't published an official cash price per t
 No. Only accounts less than 48 hours old can redeem a code.
 
 **Can I share my own code after I join?**
-Yes! After you join, Muse gives you your own personal invite code in Settings. Share it and every successful invite adds another 1 billion tokens to your balance, up to the limit.
+Yes! After you join, Muse gives you your own personal invite code in Settings. Share it and every successful invite earns you a bonus, up to the limit.
 
 **Why GitHub?**
 So this guide stays public, free, and easy to share — no ads, no paywall, no sign-up to read it.
@@ -130,7 +127,7 @@ So this guide stays public, free, and easy to share — no ads, no paywall, no s
 
 # 🎁 دریافت ۱ میلیارد توکن رایگان Muse
 
-### با کد دعوت من ثبت‌نام کن؛ هم تو ۱٬۰۰۰٬۰۰۰٬۰۰۰ توکن می‌گیری، هم من — رایگان.
+### با کد دعوت من ثبت‌نام کن؛ ۱٬۰۰۰٬۰۰۰٬۰۰۰ توکن می‌گیری — رایگان.
 
 > **کد دعوت من:**
 >
@@ -146,16 +143,13 @@ So this guide stays public, free, and easy to share — no ads, no paywall, no s
 
 موز دستیار هوش مصنوعی شخصی متا (Meta) است — دستیار خودت که کارت را در چت و در گوشی انجام می‌دهد.
 
-موز با **توکن** کار می‌کند. توکن اعتبار مصرف داخل موز است — نه پول نقد، نه ارز دیجیتال و قابل برداشت نیست. پلن رایگان خودش یک سهمیه دارد و این جایزهٔ دعوت، **۱ میلیارد توکن اضافه** روی آن می‌گذارد، برای هر دو نفر.
+موز با **توکن** کار می‌کند. توکن اعتبار مصرف داخل موز است — نه پول نقد، نه ارز دیجیتال و قابل برداشت نیست. پلن رایگان خودش یک سهمیه دارد و این جایزهٔ دعوت، **۱ میلیارد توکن اضافه** روی آن می‌گذارد، برای تو.
 
 ## 🎁 چی گیرت می‌آید؟
 
-| کی | جایزه |
-| :--- | :--- |
-| **تو (کاربر جدید)** | **۱٬۰۰۰٬۰۰۰٬۰۰۰ توکن موز** |
-| **من (صاحب کد)** | **۱٬۰۰۰٬۰۰۰٬۰۰۰ توکن موز** |
+تو **۱٬۰۰۰٬۰۰۰٬۰۰۰ توکن موز** می‌گیری.
 
-این برنامهٔ رسمی رفرال موز است: وقتی کاربر جدید کد دعوت را وارد می‌کند، هر دو نفر همان جایزه را می‌گیرند.
+این برنامهٔ رسمی رفرال موز است: وقتی کاربر جدید کد دعوت را وارد می‌کند، جایزه را می‌گیرد.
 
 بدون پرداخت، بدون کارت، بدون خرید. فقط کد را به‌موقع وارد کن.
 
@@ -231,7 +225,7 @@ Settings → Redeem Code
 نه. فقط اکانت‌های کمتر از ۴۸ ساعت می‌توانند کد وارد کنند.
 
 **بعد از عضویت، خودم هم می‌توانم کد بدهم؟**
-بله! بعد از عضویت، موز در Settings یک کد دعوت شخصی به خودت می‌دهد. آن را به اشتراک بگذار و هر دعوت موفق ۱ میلیارد توکن دیگر به حسابت اضافه می‌کند، تا سقف مجاز.
+بله! بعد از عضویت، موز در Settings یک کد دعوت شخصی به خودت می‌دهد. آن را به اشتراک بگذار و هر دعوت موفق برایت جایزه دارد، تا سقف مجاز.
 
 **چرا گیت‌هاب؟**
 تا این راهنما عمومی، رایگان و راحت برای اشتراک‌گذاری بماند — بدون تبلیغ، بدون پرداخت، بدون ثبت‌نام برای خواندنش.
