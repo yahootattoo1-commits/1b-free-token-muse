@@ -51,6 +51,7 @@ Other important limits, set by Meta and subject to change:
 - ✅ Only for **brand-new Muse accounts** — one code per account
 - ✅ Each code has a **limited number of uses (30)** — first come, first served
 - ✅ If the code says it's used up, it is full — try again with a fresh code from another friend
+- 📊 **Availability (23 Nov 2026): 6 of 30 uses taken — 24 left.**
 - ✅ Muse is rolling out by region — currently available in the US, Canada, Japan, Singapore, Mexico, Australia and more. Check [muse.ai](https://muse.ai) for your country.
 
 ## 🚀 How to redeem in 2 minutes
@@ -180,6 +181,7 @@ So this guide stays public, free, and easy to share — no ads, no paywall, no s
 - ✅ فقط برای **اکانت‌های کاملاً جدید** — هر اکانت فقط یک کد
 - ✅ هر کد **ظرفیت محدود دارد (۳۰ نفر)** — هر که زودتر، همان می‌برد
 - ✅ اگر گفت کد پر شده، یعنی ظرفیتش تمام شده — باید یک کد تازه از یک دوست دیگر بگیری
+- 📊 **وضعیت (۲۳ نوامبر ۲۰۲۶): ۶ از ۳۰ ظرفیت گرفته شده — ۲۴ تا مونده.**
 - ✅ موز فعلاً به‌صورت منطقه‌ای عرضه می‌شود — الان در آمریکا، کانادا، ژاپن، سنگاپور، مکزیک، استرالیا و چند کشور دیگر در دسترس است. کشور خودت را در [muse.ai](https://muse.ai) چک کن.
 
 ## 🚀 آموزش وارد کردن کد در ۲ دقیقه
